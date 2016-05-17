@@ -10,7 +10,6 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
-typography_spectrum: 0.8680159
 color:
   saturation: 0
   brandStrength: 0.5297872
@@ -22,5 +21,6 @@ color:
     - '#6D75A3'
     - '#E7C39F'
   rhythmicContrast: 0
-layout_spectrum: 0.7148936
+typography_spectrum: 0.8680159
+layout_spectrum: 0.2042553
 name: Vijay Travel Blog
