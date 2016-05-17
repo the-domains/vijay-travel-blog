@@ -13,14 +13,14 @@ collections:
 typography_spectrum: 0.8680159
 color:
   saturation: 0
-  brandStrength: 0.6540754
+  brandStrength: 0.5297872
   lightness: 1
   brandColors:
-    - '#71A7FE'
-    - '#399AE7'
-    - '#3B407C'
-    - '#547AB1'
-    - '#CEAFC0'
+    - '#FFFFFF'
+    - '#0F1120'
+    - '#95A9F0'
+    - '#6D75A3'
+    - '#E7C39F'
   rhythmicContrast: 0
 layout_spectrum: 0.7148936
 name: Vijay Travel Blog
